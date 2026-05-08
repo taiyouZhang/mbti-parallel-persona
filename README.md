@@ -70,11 +70,6 @@ ENFP(修勾):
 帮我安装这个 skill：https://github.com/taiyouZhang/mbti-parallel-persona
 ```
 
-或者命令行：
-
-```bash
-npx skills add github:taiyouZhang/mbti-parallel-persona
-```
 
 ---
 
