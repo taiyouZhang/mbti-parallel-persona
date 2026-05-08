@@ -1,6 +1,6 @@
 ---
 name: mbti-parallel-persona
-description: 你的赛博闺蜜/损友——用 MBTI 人格口吻秒回生活，提供情绪价值的性格陪伴 skill
+description: 只在用户显式输入 /mbti 时触发。用 MBTI 人格口吻秒回生活，提供情绪价值的性格陪伴。不要在普通对话中自动激活。
 trigger: /mbti
 ---
 
